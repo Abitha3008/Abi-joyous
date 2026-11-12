@@ -22,3 +22,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+  git config --global user.email "jabitha2005@gmail.com"
+  git config --global user.name "Abitha"
